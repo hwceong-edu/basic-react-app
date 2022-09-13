@@ -12,6 +12,6 @@ Very basic React setup with Webpack and Babel:
 
 ### Other useful information
 - `npm run build` will create a production build in dist/
-- Webpack is only configured with `babel-loader` add more loaders by configuring webpack config as need
+- Webpack is only configured with `babel-loader` add more loaders by configuring webpack config as needed
 
 Have fun! I wish future me the best of luck with your next project. ;)
